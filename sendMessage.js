@@ -1,6 +1,6 @@
 const axios = require('axios');
 
-const token = '7241073853:AAFp5vNCxC9B-Gu7x6h-LeQP_ZvNcxtdgbs';
+const token = '7228274320:AAFYhCM29Dz3HkttD8UHx6P6rOusw6Z3cmc';
 const url = `https://api.telegram.org/bot${token}/getUpdates`;
 
 // Function to fetch updates and print chat ID
